@@ -7,7 +7,7 @@ const Project = ({ name, description, link, repo }) => {
   const formattedName = removeHyphensAndCapitalize(name);
 
   return (
-    <div className="project" key={name}>
+    <div className="project flex-row flex-center" key={name}>
       <img
         src={projects[name]}
         alt={formattedName}
