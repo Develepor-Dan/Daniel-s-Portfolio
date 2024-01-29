@@ -2,10 +2,11 @@ import React from 'react';
 
 function Resume() {
   return (
-    <section className="my-5">
+    <section className="my-5 flex-row flex-center">
       <div className="my-2">
         <p>
-          Download my <a href="https://www.linkedin.com/">resume</a>
+          ***Resume in progress***
+          {/* Download my <a href="https://www.linkedin.com/">resume</a> */}
         </p>
 
         <div>
