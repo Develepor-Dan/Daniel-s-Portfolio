@@ -2,45 +2,45 @@
 const projectData = [
     {
       id: '1',
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'DepartmentIdeas',
+      description: 'MERN Stack Single-Page Application',
+      link: "https://department-ideas.onrender.com/",
+      repo: "https://github.com/Movank1/department-ideas"
     },
     {
       id: '2',
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'GoalMinder',
+      description: 'Interactive Full-Stack Application',
+      link: "https://whispering-stream-95557-d48ddde60a03.herokuapp.com/",
+      repo: "https://github.com/NemiMoser/GoalMinder2"
     },
     {
       id: '3',
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'NoteTakerExpress',
+      description: 'Express.js',
+      link: "https://github.com/Develepor-Dan/Note-Taker-Express",
+      repo: "https://github.com/Develepor-Dan/Note-Taker-Express"
     },
     {
       id: '4',
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'TechTrailblazer',
+      description: 'Model-View-Controller (MVC)',
+      link: "https://github.com/Develepor-Dan/Tech-Trailblazer",
+      repo: "https://github.com/Develepor-Dan/Tech-Trailblazer"
     },
     {
       id: '5',
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'READMEGenerator',
+      description: 'Node.js',
+      link: "https://github.com/Develepor-Dan/Professional-README-Generator",
+      repo: "https://github.com/Develepor-Dan/Professional-README-Generator"
     },
     {
       id: '6',
-     name: 'calculator',
-     description: 'React/JavaScript/CSS',
-     link: "https://github.com",
-     repo: "https://github.com"
+     name: 'MuttMemes',
+     description: 'Interactive Front-End Application',
+     link: "https://ebox26.github.io/Meme-generator/",
+     repo: "https://github.com/EBOX26/Meme-generator"
    },
 
    ];
