@@ -43,7 +43,7 @@ This project is licensed under the [None](https://opensource.org/licenses/None) 
 
 ## Deployment
 - [GitHub Repository](https://github.com/Develepor-Dan)
-- [Deployed App](ff)
+- [Deployed App](https://portfolio-de-daniel.netlify.app/)
 
 ## Questions
 For questions and contributions to the project, please contact [Daniel Zavala](mailto:zavaladaniel151).
